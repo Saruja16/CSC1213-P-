@@ -1,0 +1,30 @@
+Date : 12/03/2025
+
+Practical Number : 07
+
+Problem Specification : How to use arithmetic operators in java program
+
+Implementation : 
+
+class Exercise7{
+	public static void main(String [] args)
+	{
+	int number1=10;
+	int number2=20;
+	
+	System.out.println("The addition is "+(number1+number2));
+	System.out.println("The substraction is "+(number1-number2));
+	System.out.println("The multiplication is "+(number1*number2));
+	System.out.println("The division is "+(number1/number2));
+	System.out.println("The modulus is "+(number1%number2));
+	}
+}
+	
+
+Output : The addition is 30
+         The substraction is -10
+         The multiplication is 200
+         The division is 0
+         The modulus is 10
+
+Conclusion : I have learnt about how to apply arithmetic operators in java.

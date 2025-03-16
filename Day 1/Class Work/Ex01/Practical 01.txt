@@ -1,0 +1,19 @@
+Date : 12.03.2025
+
+Practical Number : 01
+
+Problem Specification : Introduction of Java Programming.
+
+Implementation : 
+                 class MyFirstJavaProgramme{
+                 public static void main(String[] args)
+               {
+	         System.out.println("My first programme in Java");
+	         System.out.println("hello java helpers!!!");
+               }
+               }
+
+Output : My first programme in Java
+         hello java helpers!!!
+
+Conclusion : I have learnt to print the statements in java programme.
