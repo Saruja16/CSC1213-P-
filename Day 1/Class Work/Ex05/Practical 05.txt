@@ -1,0 +1,22 @@
+Date : 12/03/2025
+
+Practical Number : 05
+
+Problem Specification : How to print the output statements in next lines using one output
+                        syntax
+
+Implementation : 
+
+class Exercise5{
+	
+public static void main(String[] args)
+{
+System.out.println("First Name:Saruja \nLast name:Sathiyasivam \nAddress:Kokuvil,Jaffna");
+}
+}        
+
+Output :First Name:Saruja 
+        Last name:Sathiyasivam 
+        Address:Kokuvil,Jaffna
+ 
+Conclusion : I have learnt to print the statements using \n.
